@@ -1,0 +1,32 @@
+[
+    {
+        "tittel": "Ringenes Herre",
+        "forfatter": "J.R.R. Tolkien",
+        "pris": 199
+    },
+    {
+        "tittel": "Harry Potter og De vises stein",
+        "forfatter": "J.K. Rowling",
+        "pris": 150
+    },
+    {
+        "tittel": "Foundation",
+        "forfatter": "Isaac Asimov",
+        "pris": 180
+    },
+    {
+        "tittel": "Game of Thrones",
+        "forfatter": "George R.R. Martin",
+        "pris": 220
+    },
+    {
+        "tittel": "To Kill a Mockingbird",
+        "forfatter": "Harper Lee",
+        "pris": 120
+    },
+    {
+        "tittel": "Art of War",
+        "forfatter": "Sun Tzu",
+        "pris": 10000
+    }
+]

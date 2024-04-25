@@ -1,0 +1,12 @@
+{
+    "name": "Lucas",
+    "age": 17,
+    "hobbies": [
+        "programming",
+        "gaming"
+    ],
+    "location": {
+        "city": "Oslo",
+        "state": "Oslo"
+    }
+}

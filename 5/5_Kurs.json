@@ -1,0 +1,52 @@
+[
+    {
+        "kursnavn": "Python Programmering",
+        "kursID": "PY101",
+        "studenter": [
+            "001",
+            "003",
+            "004",
+            "007",
+            "001"
+        ]
+    },
+    {
+        "kursnavn": "Data Vitenskap",
+        "kursID": "DS201",
+        "studenter": [
+            "002",
+            "008",
+            "005",
+            "010"
+        ]
+    },
+    {
+        "kursnavn": "Webutvikling",
+        "kursID": "WD301",
+        "studenter": [
+            "001",
+            "004",
+            "006",
+            "009"
+        ]
+    },
+    {
+        "kursnavn": "Avansert Matematikk",
+        "kursID": "AM401",
+        "studenter": [
+            "002",
+            "003",
+            "007",
+            "008"
+        ]
+    },
+    {
+        "kursnavn": "Kreativ Skriving",
+        "kursID": "KS501",
+        "studenter": [
+            "005",
+            "009",
+            "010"
+        ]
+    }
+]

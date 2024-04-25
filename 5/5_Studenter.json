@@ -1,0 +1,42 @@
+[
+    {
+        "navn": "Ola Nordmann",
+        "studentID": "001"
+    },
+    {
+        "navn": "Kari Nordmann",
+        "studentID": "002"
+    },
+    {
+        "navn": "Per Hansen",
+        "studentID": "003"
+    },
+    {
+        "navn": "Lisa Svendsen",
+        "studentID": "004"
+    },
+    {
+        "navn": "Nils Pettersen",
+        "studentID": "005"
+    },
+    {
+        "navn": "Mona Jacobsen",
+        "studentID": "006"
+    },
+    {
+        "navn": "Ahmed Khan",
+        "studentID": "007"
+    },
+    {
+        "navn": "Eva Green",
+        "studentID": "008"
+    },
+    {
+        "navn": "John Doe",
+        "studentID": "009"
+    },
+    {
+        "navn": "Jane Smith",
+        "studentID": "010"
+    }
+]

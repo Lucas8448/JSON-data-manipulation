@@ -1,0 +1,40 @@
+{
+    "M\u00f8bler": [
+        {
+            "navn": "Stol",
+            "pris": 500
+        },
+        {
+            "navn": "Sofa",
+            "pris": 1500
+        },
+        {
+            "navn": "Skrivebord",
+            "pris": 800
+        }
+    ],
+    "Elektronikk": [
+        {
+            "navn": "Apple Watch",
+            "pris": 2900
+        },
+        {
+            "navn": "Laptop",
+            "pris": 12000
+        },
+        {
+            "navn": "Hodetelefoner",
+            "pris": 1500
+        }
+    ],
+    "Husholdningsapparater": [
+        {
+            "navn": "Kaffemaskin",
+            "pris": 700
+        },
+        {
+            "navn": "St\u00f8vsuger",
+            "pris": 600
+        }
+    ]
+}

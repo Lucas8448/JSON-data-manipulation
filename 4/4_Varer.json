@@ -1,0 +1,42 @@
+[
+    {
+        "navn": "Stol",
+        "kategori": "Møbler",
+        "pris": 500
+    },
+    {
+        "navn": "Sofa",
+        "kategori": "Møbler",
+        "pris": 1500
+    },
+    {
+        "navn": "Skrivebord",
+        "kategori": "Møbler",
+        "pris": 800
+    },
+    {
+        "navn": "Apple Watch",
+        "kategori": "Elektronikk",
+        "pris": 2900
+    },
+    {
+        "navn": "Laptop",
+        "kategori": "Elektronikk",
+        "pris": 12000
+    },
+    {
+        "navn": "Hodetelefoner",
+        "kategori": "Elektronikk",
+        "pris": 1500
+    },
+    {
+        "navn": "Kaffemaskin",
+        "kategori": "Husholdningsapparater",
+        "pris": 700
+    },
+    {
+        "navn": "Støvsuger",
+        "kategori": "Husholdningsapparater",
+        "pris": 600
+    }
+]

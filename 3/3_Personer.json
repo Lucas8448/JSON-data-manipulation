@@ -1,0 +1,32 @@
+[
+    {
+        "navn": "Anna",
+        "alder": 28,
+        "yrke": "Ingeniør"
+    },
+    {
+        "navn": "Berit",
+        "alder": 34,
+        "yrke": "Lærer"
+    },
+    {
+        "navn": "Carl",
+        "alder": 45,
+        "yrke": "Dataanalytiker"
+    },
+    {
+        "navn": "David",
+        "alder": 22,
+        "yrke": "Student"
+    },
+    {
+        "navn": "Eva",
+        "alder": 30,
+        "yrke": "Ingeniør"
+    },
+    {
+        "navn": "Fredrik",
+        "alder": 41,
+        "yrke": "Lærer"
+    }
+]
